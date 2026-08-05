@@ -1,0 +1,7 @@
+Model,Best Params,Best CV f1,Search Time (s)
+CNN-SVM (No PCA),"{'clf__C': 0.1, 'clf__gamma': 'scale', 'clf__kernel': 'linear'}",0.991777693186144,0.32755064964294434
+CNN-LR (No PCA),"{'clf__C': 0.01, 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}",0.9918548685671974,0.15524864196777344
+CNN-KNN (No PCA),"{'clf__metric': 'euclidean', 'clf__n_neighbors': 5}",0.9945945945945945,0.41066479682922363
+CNN-SVM (PCA),"{'clf__C': 10, 'clf__gamma': 'scale', 'clf__kernel': 'rbf'}",0.9890410958904109,0.4057433605194092
+CNN-LR (PCA),"{'clf__C': 1, 'clf__penalty': 'l1', 'clf__solver': 'liblinear'}",0.9945945945945945,0.2248849868774414
+CNN-KNN (PCA),"{'clf__metric': 'euclidean', 'clf__n_neighbors': 9}",0.9918548685671974,0.48221683502197266
