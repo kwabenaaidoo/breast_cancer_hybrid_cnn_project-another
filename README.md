@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hybrid CNN-Based Models for Breast Cancer Prediction
 
 A reproducible ML framework comparing **CNN-SVM**, **CNN-LR**, and **CNN-KNN**
@@ -234,3 +235,6 @@ without the framework underneath it.
 | 9. Visualization | `src/visualization.py` |
 | 10. Comparison table | `outputs/results/final_comparison_table.csv` |
 | 11–13. Discussion, limitations, improvements | see `REPORT_NOTES.md` — a template grounded in this package's actual test-run results |
+=======
+# breast_cancer_hybrid_cnn_project-another
+>>>>>>> b7ee41e386507d8a57c59c1cba0d836c2fd51f6a
